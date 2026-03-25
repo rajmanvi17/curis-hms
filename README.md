@@ -78,41 +78,37 @@ http://localhost/hospital
 ---
 
 ## 📸 Screenshots
-
-
-## 📸 Screenshots
-
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](screenshots/home.jpg)
+![Home](home.jpg)
 
 ### ✨ Key Features Section
-![Key Features](screenshots/key-features.jpg)
+![Key Features](key-features.jpg)
 
 ### 🔐 Login Page
-![Login](screenshots/logins.jpg)
+![Login](logins.jpg)
 
 ### 👨‍💼 Admin Dashboard
-![Admin Dashboard](screenshots/admin.jpg)
+![Admin](admin.jpg)
 
 ### 👨‍⚕️ Doctor Dashboard
-![Doctor Dashboard](screenshots/doctor-dashboard.jpg)
+![Doctor](doctor-dashboard.jpg)
 
-### 🩺 Doctor Session Page
-![Doctor Session](screenshots/doctor-session.jpg)
+### 🩺 Doctor Session
+![Session](doctor-session.jpg)
 
 ### 👤 Patient Dashboard
-![Patient Dashboard](screenshots/patient-db.jpg)
+![Patient](patient-db.jpg)
 
 ### 📅 Appointment Booking
-![Appointment](screenshots/appointment-book.jpg)
+![Appointment](appointment-book.jpg)
 
-### 🖼️ Gallery Page
-![Gallery](screenshots/gallery.jpg)
+### 🖼️ Gallery
+![Gallery](gallery.jpg)
 
-### 📞 Contact & Footer Section
-![Contact](screenshots/contact+footer.jpg)
+### 📞 Contact & Footer
+![Contact](contact+footer.jpg)
 
 ## 🌟 Future Improvements
 
