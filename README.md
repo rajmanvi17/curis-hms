@@ -6,7 +6,7 @@ A web-based **Hospital Management System** developed using **PHP and MySQL** to 
 
 ## 🚀 Features
 
-* 👨‍⚕️ **Admin Panel**
+**Admin Panel**
 
   * Manage doctors and patients
   * View appointments
@@ -106,10 +106,10 @@ http://localhost/hospital
 ### 🖼️ Gallery
 ![Gallery](gallery.jpg)
 
-### 📞 Contact & Footer
+###  Contact & Footer
 ![Contact](contact+footer.jpg)
 
-## 🌟 Future Improvements
+## Future Improvements
 
 * Online payment integration
 * Email/SMS notifications
@@ -117,7 +117,7 @@ http://localhost/hospital
 
 ---
 
-## 🙌 Author
+## Author
 
 **Manvi Raj**
 
