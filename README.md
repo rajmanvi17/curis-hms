@@ -78,7 +78,6 @@ http://localhost/hospital
 ---
 
 ## 📸 Screenshots
-## 📸 Screenshots
 
 ### 🏠 Home Page
 ![Home](home.jpg)
