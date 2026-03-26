@@ -82,11 +82,21 @@ http://localhost/hospital
 ### 🏠 Home Page
 ![Home](home.jpg)
 
-### ✨ Key Features Section
-![Key Features](key-features.jpg)
 
 ### 🔐 Login Page
 ![Login](logins.jpg)
+
+### ✨ Key Features Section
+![Key Features](key-features.jpg)
+
+### 🖼️ Gallery
+![Gallery](gallery.jpg).
+
+### ChatBot
+![ChatBot](chatbot.jpg).
+
+###  Contact & Footer
+![Contact](contact+footer.jpg)
 
 ### 👨‍💼 Admin Dashboard
 ![Admin](admin.jpg)
@@ -102,12 +112,6 @@ http://localhost/hospital
 
 ### 📅 Appointment Booking
 ![Appointment](appointment-book.jpg)
-
-### 🖼️ Gallery
-![Gallery](gallery.jpg)
-
-###  Contact & Footer
-![Contact](contact+footer.jpg)
 
 ## Future Improvements
 
