@@ -1,3 +1,5 @@
+⚠️ This project is proprietary. Unauthorized use is strictly prohibited.
+
 # 🏥 Hospital Management System (HMS)
 
 A web-based **Hospital Management System** developed using **PHP and MySQL** to manage hospital operations efficiently. This system helps in handling patient records, doctor schedules, and appointment bookings with a user-friendly interface.
